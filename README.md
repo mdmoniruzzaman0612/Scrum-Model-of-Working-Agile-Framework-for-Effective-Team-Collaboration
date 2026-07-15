@@ -46,7 +46,31 @@ This presentation covers:
 .
 ├── Scrum_Presentation_Slides_NEW.pdf
 ├── README.md
-└── images/           (optional)
+├── report.md                (Main report that links all chapters)
+├── 01_Title.md
+├── 02_Abstract.md
+├── 03_Introduction.md
+├── 04_History.md
+├── 05_Core_Principles.md
+├── 06_Scrum_Framework.md
+├── 07_Scrum_Roles.md
+├── 08_Scrum_Events.md
+├── 09_Scrum_Artifacts.md
+├── 10_Scrum_Workflow.md
+├── 11_Benefits.md
+├── 12_Challenges.md
+├── 13_Traditional_Models.md
+├── 14_Scrum_vs_Traditional.md
+├── 15_Choosing_the_Right_Model.md
+├── 16_Real_World_Applications.md
+├── 17_Case_Study_Spotify.md
+├── 18_Scrum_Tools.md
+├── 19_Common_Myths.md
+├── 20_Scaling_Scrum.md
+├── 21_Best_Practices.md
+├── 22_Future_of_Scrum.md
+├── 23_Conclusion.md
+└── 24_References.md
 ```
 
 ---
