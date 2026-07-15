@@ -81,7 +81,7 @@ This report is organized into the following chapters:
 
 > **Figure 1.** Scrum Model of Working (Presentation Cover)
 
-*(Insert the presentation cover image here if desired.)*
+<img width="1672" height="941" alt="ChatGPT Image Jul 15, 2026, 01_39_15 AM" src="https://github.com/user-attachments/assets/bfba2118-fd35-498f-93b2-fb9a66ba90b7" />
 
 ---
 
